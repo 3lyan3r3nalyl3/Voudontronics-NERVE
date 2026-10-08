@@ -5,8 +5,6 @@ Hybrid sampler + synthesizer
 
 It is deliberately not a virtual analogue. Four **AFFERENTS** ingest arbitrary files and reinterpret them as signal/state/events. Four nontraditional generators — **AXON, GANGLION, BYTEWORM, KNOT** — form the other half of the organism. **GLIA** is a cellular-automaton modulation field, while **SYNAPSE** is a sparse routing system in which individual connections may use Sample+Hold.
 
-This is the first playable architectural prototype, not the finished instrument.
-
 ## Current organs
 
 - Four AFFERENT slots; each can load *any non-empty file*.
